@@ -1,3 +1,19 @@
+# Note on Kodi
+Yes, Kodi is still very relevant in 2025 as a powerful, free, open-source media center, especially for users who want deep customization, local media management, and extensive add-on options, but its reliance on third-party sources for live/streaming content can be inconsistent and requires extra tools like VPNs and debrid services for the best experience, while newer options like Plex or Stremio offer easier interfaces for simpler streaming. 
+### Why Kodi Remains Relevant (Pros):
+Ultimate Customization: Huge library of skins and add-ons for YouTube, Twitch, podcasts, and even unofficial access to Netflix/Disney+.
+Local Media Hub: Excellent for organizing and playing your own movie/music collections from local or network storage.
+Open-Source & Free: No cost, no subscriptions, and full control over your media.
+Device Versatility: Runs on almost anything: Windows, Mac, Android, Fire Sticks, Raspberry Pi.
+Debrid Integration: Works with debrid services (like Real-Debrid) for reliable, high-quality streaming links, bypassing broken sources. 
+### Challenges & Alternatives (Cons):
+Complexity: Can be difficult to set up; finding reliable, working add-ons takes effort.
+Inconsistent Content: Live TV and streaming add-ons can break or become outdated quickly.
+Legality Concerns: While Kodi is legal, using certain add-ons for copyrighted content can be legally risky.
+Competition: Plex offers a more polished interface for library management, while Stremio simplifies add-ons. 
+### Verdict:
+Kodi is highly relevant for tech-savvy users who enjoy tinkering and want total control over their media setup, particularly for local files. For users seeking a simple "plug-and-play" solution for streaming, other platforms might be better, but Kodi's deep ecosystem keeps it a strong contender for dedicated media enthusiasts. 
+
 # What is Kodi? The Ultimate Beginner Guide to Kodi. 
 Updated 25 Mar 2017
 

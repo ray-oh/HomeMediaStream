@@ -26,6 +26,13 @@ Tools and platforms to enhance your streaming experience:
 - **[Streaming Sites & Tools](streaming-resources.md)**  
   Legal platforms, self-hosted solutions (Plex/Jellyfin), VPN tips, and subtitle resources.
 
+## 🛠️ Storage Resources
+Storage for media:
+
+- **Google Drive**
+  - Managing multiple accounts and syncing with [R-Clone](r-clone.md)
+  - Ensuring google accounts are not [deactivated](google-accounts-expiry.md)
+
 ---
 
 ## 🔍 How to Use This Repo

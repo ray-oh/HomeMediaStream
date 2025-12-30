@@ -1,3 +1,8 @@
+---
+title: Home Media Streaming Resources
+nav_order: 1
+---
+
 # 🌐 Home Media Streaming Resources
 
 Welcome to your curated hub for streaming Chinese dramas, Korean dramas, and essential tools for building your home media setup! All resources are **free, legal, and community-vetted**.

@@ -1,3 +1,8 @@
+---
+title: C-Drama List
+nav_order: 2
+---
+
 # C-Drama List
 Last updated in 2022 during covid period ...
 

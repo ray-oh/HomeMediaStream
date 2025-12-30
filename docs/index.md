@@ -26,7 +26,7 @@ Tools and platforms to enhance your streaming experience:
 ## 🔍 How to Use This Repo
 1. **New to streaming?** Start with [`streaming-resources.md`](streaming-resources.md) for setup guides.  
 2. **Looking for recommendations?** Browse [`c-drama.md`](c-drama.md) or [`k-drama.md`](k-drama.md).  
-3. **Found a broken link?** [Open an issue](https://github.com/your-username/your-repo/issues)!
+3. **Found a broken link?** [Open an issue](https://github.com/ray-oh/HomeMediaStream/issues)!
 
 > 💡 **Pro Tip**: Bookmark this page! We update resources monthly.
 

@@ -1,3 +1,8 @@
+---
+title: K Drama List
+nav_order: 3
+---
+
 # K Drama List
 
 # Plan to watch

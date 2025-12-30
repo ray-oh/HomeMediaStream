@@ -1,35 +1,35 @@
-# Project Documentation
+# 🌐 Home Media Streaming Resources
 
-Welcome to the official documentation for **Project Name**.
+Welcome to your curated hub for streaming Chinese dramas, Korean dramas, and essential tools for building your home media setup! All resources are **free, legal, and community-vetted**.
 
-This repository contains guides, tutorials, reference materials, and best practices to help you get the most out of **Project Name**.
+---
 
-## 📚 Quick Start
+## 📺 Drama Guides
+Dive into region-specific drama reviews and recommendations:
 
-- **[Installation](installation.md)** – Get up and running quickly
-- **[Configuration](configuration.md)** – Customize your setup
-- **[Usage Guide](usage.md)** – Core features and workflows
-- **[Examples](examples.md)** – Practical use cases
+- **🇨🇳 [Chinese Dramas (C-Drama)](c-drama.md)**  
+  Historical epics, modern rom-coms, wuxia adventures, and more.
+  
+- **🇰🇷 [Korean Dramas (K-Drama)](k-drama.md)**  
+  Trending hits, timeless classics, thrillers, and heartwarming slice-of-life.
 
-## 🧭 Documentation Sections
+---
 
-- **[Getting Started](getting-started.md)** – Introduction and prerequisites
-- **[User Guide](user-guide/)** – Step-by-step user instructions
-- **[Administrator Guide](admin-guide/)** – Advanced setup and maintenance
-- **[API Reference](api/)** – Technical specifications (if applicable)
-- **[FAQ](faq.md)** – Common questions and answers
-- **[Troubleshooting](troubleshooting.md)** – Resolve common issues
+## 🛠️ Streaming Resources
+Tools and platforms to enhance your streaming experience:
 
-## 💡 Need Help?
+- **[Streaming Sites & Tools](streaming-resources.md)**  
+  Legal platforms, self-hosted solutions (Plex/Jellyfin), VPN tips, and subtitle resources.
 
-- Review the **[Troubleshooting Guide](troubleshooting.md)**
-- Check existing **[GitHub Issues](https://github.com/your-username/your-repo/issues)**
-- **[Open a new issue](https://github.com/your-username/your-repo/issues/new)** for bugs or questions
+---
 
-## 🤝 Contributing
+## 🔍 How to Use This Repo
+1. **New to streaming?** Start with [`streaming-resources.md`](streaming-resources.md) for setup guides.  
+2. **Looking for recommendations?** Browse [`c-drama.md`](c-drama.md) or [`k-drama.md`](k-drama.md).  
+3. **Found a broken link?** [Open an issue](https://github.com/your-username/your-repo/issues)!
 
-Contributions are welcome! Please see our **[Contribution Guidelines](contributing.md)** for details on how to submit improvements to this documentation.
+> 💡 **Pro Tip**: Bookmark this page! We update resources monthly.
 
-## 📄 License
+---
 
-This documentation is licensed under the [MIT License](LICENSE).
+*Made with ❤️ for drama lovers and cord-cutters. Always prioritize legal streaming services.*

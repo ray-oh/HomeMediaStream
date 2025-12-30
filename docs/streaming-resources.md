@@ -3,22 +3,6 @@ Updated December 30 2025
 
 ## Free services
 
-
-| Project | Description | Link |
-|--------|-------------|------|
-| Business Card Generator | My personal contact card with QR and styling | [Private Repo](https://github.com/ray-oh/business_card) |
-| Opti-Stream | Streaming Video Downloader | [Private Repo](https://github.com/ray-oh/opti-stream) |
-| Opti-AI | AI Assistant | [Private Repo](https://github.com/ray-oh/Opti-Ai) |
-| Opti-Helpdesk | Ticket classification | [Private Repo](https://github.com/ray-oh/Opti-Helpdesk) |
-| Manuals | Useful manuals for applicances | [Private Repo](https://github.com/ray-oh/Manuals) |
-| Stock Trading | Investments and Trading | [Private Repo](https://github.com/ray-oh/Stock-Trading) |
-| Creative Studio | Digital and Content creation | [Private Repo](https://github.com/ray-oh/creative-studio) |
-| Youtube | Audio and streaming related - clean up | [Private Repo](https://github.com/ray-oh/youtube) |
-| Personal Blog | Notes, life admin, and reference guides | [Google Site](https://sites.google.com/view/rayoh-blog/home) |
-| Test site | Test site from learn@gmail | [Google Site](https://sites.google.com/view/rayoh) |
-| Project Onboarding | Internal setup guides for team tools | [Google Site](https://sites.google.com/view/project-onboarding-private) |
-
-
 | Service     | Notes                   | Link |
 |-------------|-------------------------|------|
 | Duboku      | 獨播庫                  | [🎬](https://www.dbku.tv/) [📦](https://dubokutv.supertws.com/) |

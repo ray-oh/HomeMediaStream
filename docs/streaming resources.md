@@ -1,30 +1,33 @@
 # Streaming resources
-Updated June 14 2022
+Updated December 30 2025
 
 ## Free services
-| Service | Notes |
-|---------|-------|
-| Olevod | 欧乐影院 |
-| ACloudMerge | 集云数据 |
-| Gimy | Gimy TV 劇迷線上看 |
-| Stremio | Stremio - All You Can Watch |
-| K-Drama Streaming | The 5 Best Free K-Drama Streaming Services |
+| Service | Notes | Link |
+|---------|-------|-------|
+| Duboku | 獨播庫 | [🎬](https://www.dbku.tv/) [📦](https://dubokutv.supertws.com/) |
+| iyf.tv | 愛一帆 | [🎬](https://www.iyf.tv/) |
+| Olevod | 歐樂影院 | [🎬](https://www.olevod.com/) |
+| Gimy | Gimy TV 劇迷線上看 | [🎬](https://gimy.tv/) |
+| Stremio | Stremio - All You Can Watch | [📦](https://www.stremio.com/) |
+| Kodi | Highly customizable Media Centre | [📦](https://kodi.tv/) |
 
 ## Paid services
-| Service | Notes |
-|---------|-------|
-| Viu TV | Viu 劇集線上看 |
-| WeTV | WeTV-中文系列,韓國系列,動漫,等等 |
-| iQiyi | iQiyi - Asian Dramas \| Watch Free Streaming Online with Subtitles and Dubbing – iQiyi \| iQ.com |
+| Service | Notes | Link |
+|---------|-------|-------|
+| Viu TV | Viu 劇集線上看 | [🎬](https://www.viu.com/) |
+| WeTV | WeTV-中文系列,韓國系列,動漫,等等 | [🎬](https://wetv.vip/en) |
+| iQiyi | iQiyi - Asian Dramas \| Free Streaming Online \| iQ.com | [🎬](https://www.iq.com/) |
 
+### Archived services
+| Service | Notes | Link |
+|---------|-------|-------|
+| ACloudMerge | 集云数据 |
+| K-Drama Streaming | The 5 Best Free K-Drama Streaming Services |
 
 # Stremio – All You Can Watch
 
 ## Overview
 Stremio is a free streaming video application for watching movies, TV series, live TV, sports, and more.
-
-## Download
-Link for all devices (Windows, Linux, Android, iOS): https://www.stremio.com/
 
 ## Features
 *   **Freedom to Stream:** Enjoyed by more than 30 million users worldwide.
